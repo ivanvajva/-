@@ -1,6 +1,6 @@
 import shutil
 
-path_to_dir = './my-directory'
+path_to_dir = './MODS''
 
 output_filename = 'my-zip'
 
